@@ -1,0 +1,1 @@
+experiment,rank,validation_loss,accuracy,f1,total_parameters,trainable_parameters,trainable_parameter_percentage,training_time_seconds,peak_gpu_memory_mb
