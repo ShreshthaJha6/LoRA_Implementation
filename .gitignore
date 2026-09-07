@@ -6,8 +6,6 @@ __pycache__/
 venv/
 .env
 outputs/
-results/figures/*.png
-results/figures/*.pdf
 wandb/
 *.pt
 *.bin
